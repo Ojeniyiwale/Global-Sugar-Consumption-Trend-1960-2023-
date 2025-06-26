@@ -1,3 +1,4 @@
+![Dashboard 9](https://github.com/user-attachments/assets/a0375a58-a8ed-41a9-ba9a-9c28264a90ff)
 # Global-Sugar-Consumption-Trend-1960-2023-
 This data-driven analysis explores global sugar consumption patterns from 1960 to 2023. It evaluates links between consumption and public health outcomes (e.g., diabetes, obesity) and economic factors like GDP, taxation, and education campaigns.
 🛠️ Tools & Skills Used
